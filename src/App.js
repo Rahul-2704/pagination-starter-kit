@@ -50,7 +50,7 @@ function App() {
   ):
   (
     <>
-      <h2>Products not found </h2>
+      <h2>Product not found </h2>
     </>
   )
 
